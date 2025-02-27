@@ -1,1 +1,1 @@
-a small minecraft 1.20.1 datapack adding a few recipes
+a minecraft 1.20.1 datapack adding essential recipes
